@@ -1,4 +1,4 @@
-# Dvesh202
+# Divesh202
 <h1 align="center">Hi 👋, I'm Divesh Mhatre</h1>
 <h3 align="center">A passionate web developer from India</h3>
 <img align = "right" alt = "coding" width = "400" src = " https://user-images.githubusercontent...
